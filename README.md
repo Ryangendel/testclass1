@@ -15,3 +15,5 @@ Strong emphasis, or bold - **someothing important**
 --- <--- makes a new line
 
 ---
+
+[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
